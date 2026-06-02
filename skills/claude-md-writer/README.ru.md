@@ -1,5 +1,7 @@
 # Claude MD Writer Skill
 
+![Иллюстрация скилла](assets/illustration.png)
+
 Скилл для создания и рефакторинга CLAUDE.md файлов по лучшим практикам Anthropic.
 
 ## Проблема

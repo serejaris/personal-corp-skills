@@ -1,5 +1,7 @@
 # Claude Code Analytics Skill
 
+![Skill illustration](assets/illustration.png)
+
 A Claude Code skill for generating HTML reports of Claude Code usage statistics.
 
 ## Problem

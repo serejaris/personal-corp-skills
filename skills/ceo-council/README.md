@@ -1,5 +1,7 @@
 # CEO Council Skill
 
+![Skill illustration](assets/illustration.png)
+
 A Claude Code skill that launches parallel sub-agents as independent C-level experts to analyze your project from different strategic perspectives.
 
 ## Problem

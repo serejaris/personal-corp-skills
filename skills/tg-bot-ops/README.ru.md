@@ -1,5 +1,7 @@
 # Telegram Bot Ops Skill
 
+![Иллюстрация скилла](assets/illustration.png)
+
 Скилл для операционной работы с Telegram-ботами и Telegram-to-agent gateways: найти, почему бот не отвечает, проверить webhook или polling, посмотреть логи, проверить env, сделать безопасный smoke test и подготовить restart/deploy без раскрытия токенов.
 
 Telegram-to-agent gateway — это runtime, где Telegram update запускает agent

@@ -1,5 +1,7 @@
 # GitHub Issues CLI Skill
 
+![Skill illustration](assets/illustration.png)
+
 A Claude Code skill for efficient GitHub Issues management via `gh` CLI with AI session context storage.
 
 ## Problem

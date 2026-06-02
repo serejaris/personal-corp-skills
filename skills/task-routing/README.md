@@ -1,5 +1,7 @@
 # Task Routing Skill
 
+![Skill illustration](assets/illustration.png)
+
 A Claude Code skill that routes issues to the correct repo using the routing config from CLAUDE.md. Part of the Personal Corp framework.
 
 ## Problem

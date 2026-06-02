@@ -1,5 +1,7 @@
 # Corp New Skill
 
+![Skill illustration](assets/illustration.png)
+
 Create or verify a private `corp-*` department repository and register it in a local HQ Markdown file.
 
 ## Problem

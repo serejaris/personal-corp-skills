@@ -1,5 +1,7 @@
 # Claude MD Writer Skill
 
+![Skill illustration](assets/illustration.png)
+
 A Claude Code skill for creating and refactoring CLAUDE.md files following Anthropic best practices.
 
 ## Problem

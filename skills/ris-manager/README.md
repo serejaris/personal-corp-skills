@@ -1,5 +1,7 @@
 # Ris Manager Skill
 
+![Skill illustration](assets/illustration.png)
+
 Bidirectional bridge between the current session and GitHub Issues. Part of the Personal Corp framework.
 
 ## What it does

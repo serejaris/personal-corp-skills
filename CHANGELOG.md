@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Skill README illustrations for every published skill, using deliberately clumsy MS Paint-style generated assets.
+
 ## [1.20.0] - 2026-06-01
 
 ### Added

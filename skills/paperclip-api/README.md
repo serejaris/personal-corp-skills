@@ -1,5 +1,7 @@
 # paperclip-api
 
+![Skill illustration](assets/illustration.png)
+
 Manage [Paperclip](https://github.com/paperclipai/paperclip) AI agent companies from Claude Code — create tasks, manage agents, approve hires, run heartbeats. No browser needed.
 
 ## What it does

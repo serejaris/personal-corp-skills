@@ -1,5 +1,7 @@
 # Claude Code Analytics Skill
 
+![Иллюстрация скилла](assets/illustration.png)
+
 Скилл для Claude Code — генерация HTML-отчётов статистики использования.
 
 ## Проблема

@@ -1,5 +1,7 @@
 # Product & Data Audit
 
+![Skill illustration](assets/illustration.png)
+
 Deep product/business audit with interactive HTML visualization.
 
 ## What it does

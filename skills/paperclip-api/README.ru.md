@@ -1,5 +1,7 @@
 # paperclip-api
 
+![Иллюстрация скилла](assets/illustration.png)
+
 Управление компаниями AI-агентов [Paperclip](https://github.com/paperclipai/paperclip) из Claude Code — создание задач, управление агентами, одобрение наймов, запуск heartbeat. Без браузера.
 
 ## Что делает

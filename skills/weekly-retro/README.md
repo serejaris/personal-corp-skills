@@ -1,5 +1,7 @@
 # Weekly Retro Skill
 
+![Skill illustration](assets/illustration.png)
+
 A Claude Code skill for structured weekly retrospectives. Part of the Personal Corp framework.
 
 ## Problem

@@ -1,5 +1,7 @@
 # Meeting Copilot Skill
 
+![Skill illustration](assets/illustration.png)
+
 A Claude Code skill for running a live meeting with a local AI copilot dashboard.
 
 ## Problem

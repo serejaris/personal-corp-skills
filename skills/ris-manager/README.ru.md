@@ -1,5 +1,7 @@
 # Ris Manager Skill
 
+![Иллюстрация скилла](assets/illustration.png)
+
 Двусторонний мост между текущей сессией и GitHub Issues. Часть фреймворка Personal Corp.
 
 ## Что это

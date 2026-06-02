@@ -1,5 +1,7 @@
 # Ris Prioritize Skill
 
+![Skill illustration](assets/illustration.png)
+
 Rank a list of requirements using RICE / ICE / MoSCoW / Kano. The skill picks the right framework based on data and decision context. Part of the Personal Corp framework.
 
 ## What it does

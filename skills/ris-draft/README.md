@@ -1,5 +1,7 @@
 # Ris Draft Skill
 
+![Skill illustration](assets/illustration.png)
+
 Generates a single HTML page with a technical diagram in flat engineering blueprint style — printed spec sheet aesthetic, not marketing landing.
 
 ## What it does

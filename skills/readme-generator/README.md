@@ -1,5 +1,7 @@
 # README Generator Skill
 
+![Skill illustration](assets/illustration.png)
+
 A Claude Code skill for creating human-focused README files with proper structure and current best practices.
 
 ## Problem

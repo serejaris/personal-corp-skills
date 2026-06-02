@@ -1,5 +1,7 @@
 # Weekly Planning Skill
 
+![Skill illustration](assets/illustration.png)
+
 A Claude Code skill for structured weekly planning. Turns retro findings + backlog into prioritized outcomes with clear delegation (founder vs agent).
 
 ## Problem

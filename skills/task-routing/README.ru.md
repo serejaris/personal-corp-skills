@@ -1,5 +1,7 @@
 # Скилл Task Routing
 
+![Иллюстрация скилла](assets/illustration.png)
+
 Скилл Claude Code для маршрутизации issues в правильный репозиторий через конфиг из CLAUDE.md. Часть фреймворка Personal Corp.
 
 ## Проблема

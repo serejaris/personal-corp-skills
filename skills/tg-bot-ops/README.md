@@ -1,5 +1,7 @@
 # Telegram Bot Ops Skill
 
+![Skill illustration](assets/illustration.png)
+
 Operate Telegram bots and Telegram-to-agent gateways from an agent session: diagnose why a bot is not responding, verify webhook or polling setup, inspect logs, validate environment variables, run safe smoke tests, and prepare deploy or restart steps without exposing bot tokens.
 
 A Telegram-to-agent gateway is a bot runtime where a Telegram update starts an

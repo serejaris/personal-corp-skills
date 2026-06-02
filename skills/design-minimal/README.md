@@ -1,5 +1,7 @@
 # Design Minimal Skill
 
+![Skill illustration](assets/illustration.png)
+
 Creates a single standalone HTML page in a restrained minimal style: reading-first layout, strong spacing, thin borders, limited colors, and no decorative effects.
 
 ## What it does

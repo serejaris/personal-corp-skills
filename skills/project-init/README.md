@@ -1,5 +1,7 @@
 # Project Init Skill
 
+![Skill illustration](assets/illustration.png)
+
 A Claude Code skill that sets up GitHub as your business operating system through a guided interview. Part of the Personal Corp framework.
 
 ## Problem

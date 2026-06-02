@@ -1,5 +1,7 @@
 # Art Director Skill
 
+![Skill illustration](assets/illustration.png)
+
 Iterative visual style search for media assets with branch prompts, process logs, rendered decision graphs, feedback loops, and final direction selection.
 
 ## Problem
