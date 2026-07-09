@@ -81,6 +81,8 @@ Use Personal Corp skills to plan my week.
 | [parallel-design-variants](./skills/parallel-design-variants/) | Параллельный design bake-off: N разных направлений через субагентов, галерея, голосование, потом микс победителей |
 | [fable-ruki-agenty](./skills/fable-ruki-agenty/) | Ручной режим оркестрации: Fable пишет самодостаточные спеки в тела GH issues и раздаёт готовые задачи субагентам на Sonnet; сам код не пишет |
 | [grill-me](./skills/grill-me/) | Безжалостное интервью по плану, по одному вопросу за раз, до общего понимания; каждая развилка — явное решение с рекомендацией |
+| [to-prd](./skills/to-prd/) | Синтез обсуждения в `PRD.md` в папке проекта — без интервью; швы для тестов; цепочка после grill-me |
+| [to-issues](./skills/to-issues/) | Разбивка PRD/спеки на `tasks/NN-slug.md` — вертикальные tracer-bullet срезы, критерии приёмки и зависимости |
 | [tg-bot-ops](./skills/tg-bot-ops/) | Переиспользуемый операционный плейбук для Telegram-ботов и Telegram-to-agent gateways |
 
 ### Дизайн и медиа
