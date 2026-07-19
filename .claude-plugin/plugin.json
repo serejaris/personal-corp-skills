@@ -1,7 +1,7 @@
 {
   "name": "personal-corp-skills",
-  "description": "Personal Corp framework: run your business with AI agents through GitHub, department repos, Telegram, agent gateways, html-draft diagrams, and media/art-direction workflows",
-  "version": "2.2.0",
+  "description": "Personal Corp framework: run your business with AI agents through GitHub, department repos, safe public releases, Telegram, agent gateways, html-draft diagrams, and media/art-direction workflows",
+  "version": "2.2.1",
   "author": {
     "name": "Sereja Ris",
     "email": "ris@sereja.tech",
@@ -10,5 +10,5 @@
   "homepage": "https://github.com/serejaris/personal-corp-skills",
   "repository": "https://github.com/serejaris/personal-corp-skills",
   "license": "MIT",
-  "keywords": ["personal-corp", "founder", "ai-agents", "business-ops", "department-ops", "corp-new", "weekly-planning", "retro", "meeting-copilot", "telegram", "telegram-bot", "bot-ops", "agent-gateway", "media", "art-direction", "design", "html-draft", "product-management", "prd", "pm-prioritize", "user-stories", "competitive-analysis", "roadmap"]
+  "keywords": ["personal-corp", "founder", "ai-agents", "business-ops", "department-ops", "corp-new", "safe-public-release", "open-source", "release-assurance", "security", "weekly-planning", "retro", "meeting-copilot", "telegram", "telegram-bot", "bot-ops", "agent-gateway", "media", "art-direction", "design", "html-draft", "product-management", "prd", "pm-prioritize", "user-stories", "competitive-analysis", "roadmap"]
 }
