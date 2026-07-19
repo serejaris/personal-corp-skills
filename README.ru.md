@@ -63,6 +63,7 @@ Use Personal Corp skills to plan my week.
 | [ceo-council](./skills/ceo-council/) | Параллельные субагенты в роли C-level экспертов для стратегического анализа |
 | [claude-md-writer](./skills/claude-md-writer/) | Создание и рефакторинг CLAUDE.md по best practices |
 | [corp-new](./skills/corp-new/) | Добавление приватного corp-* репозитория отдела и HQ-записи после подтверждения |
+| [safe-public-release](./skills/safe-public-release/) | Provenance, лицензии, security allowlist, approval и fresh-clone проверка публичных артефактов |
 | [design-minimal](./skills/design-minimal/) | Одна HTML-страница в минимальном стиле для дашбордов, брифов, раздаток и отчётов |
 | [gh-issues](./skills/gh-issues/) | Управление GitHub Issues через CLI с хранением контекста сессий |
 | [meeting-copilot](./skills/meeting-copilot/) | Live dashboard для встреч: подготовка, обновление из транскрипта, закрытие с решениями и follow-up |
@@ -144,6 +145,7 @@ graph LR
 |-------|-----------|
 | [project-init](./skills/project-init/) | Интервью — GitHub Project + labels + конфиг в CLAUDE.md |
 | [corp-new](./skills/corp-new/) | Регистрация приватного corp-* репозитория отдела и HQ-записи после подтверждения |
+| [safe-public-release](./skills/safe-public-release/) | Превращает private/vendor/runtime артефакты в одобренные, санитизированные и публично проверенные пакеты |
 | [task-routing](./skills/task-routing/) | Маршрутизация issues в правильный репо через конфиг |
 | [weekly-planning](./skills/weekly-planning/) | Ретро + бэклог — приоритизированные outcomes с матрицей Эйзенхауэра |
 | [weekly-retro](./skills/weekly-retro/) | Структурированное ретро: сбор данных, интервью с основателем, фиксация в issues |
