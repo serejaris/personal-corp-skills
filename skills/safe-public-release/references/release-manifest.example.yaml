@@ -1,0 +1,68 @@
+release:
+  name: example-public-package
+  owner: your-github-handle
+  intended_repository: your-github-handle/example-public-package
+  intended_license: MIT
+  status: INVENTORY
+  source_issue: https://github.com/OWNER/INTERNAL-OWNER-REPO/issues/N
+  release_owner: null
+  reviewer: null
+  approved_by: null
+  approved_at: null
+  published_at: null
+  next_review: null
+
+artifacts:
+  - id: example-skill
+    title: Example Skill
+    source_provider: owner-or-vendor
+    # Keep private absolute paths and internal URLs out of a public manifest.
+    source_locator: stable-redacted-description
+    source_version: commit-tag-or-product-version
+    source_owner: owner-or-vendor
+    original_license: MIT
+    intended_public_license: MIT
+    redistribution_basis: upstream-license
+    modified: true
+    modifications:
+      - generalized configuration
+      - removed private paths
+      - rewrote examples with synthetic data
+    bundle_files:
+      - skills/example/SKILL.md
+      - skills/example/references/example.md
+    excluded:
+      - kind: runtime-state
+        description: session/cache files
+      - kind: credentials
+        description: environment and OAuth state
+    provenance_evidence:
+      - license file at source version
+      - source owner documentation
+    security_checks:
+      manual_classification: pending
+      private_path_scan: pending
+      gitleaks: not-run
+      trufflehog: not-run
+    decision: REVIEW
+    blocker: null
+    unblock_event: null
+    notes: null
+
+package:
+  allowlist_file: allowlist.txt
+  staged_tree: null
+  readme: pending
+  attribution: pending
+  license: pending
+  security_contact: pending
+  maintenance_owner: null
+
+verification:
+  public_url: null
+  publication_commit: null
+  fresh_clone_command: null
+  install_or_discovery_command: null
+  fresh_clone_result: NOT-RUN
+  post_clone_private_path_scan: NOT-RUN
+  post_clone_secret_scan: NOT-RUN
